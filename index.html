@@ -86,7 +86,7 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="slider-content">
-                                    <h1 class="title">KMS Security Consultant Service</h1>
+                                    <h1 class="title">KMS Security Awareness</h1>
                                     <p class="text">We do the security awareness and make KMS stronger!</p>
                                     <ul class="slider-btn rounded-buttons">
                                         <li><a class="main-btn rounded-one" href="#">GET STARTED</a></li>
