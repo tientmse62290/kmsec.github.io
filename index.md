@@ -35,7 +35,7 @@
 
 <body>
     <!--[if IE]>
-    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
    
     <!--====== PRELOADER PART START ======-->
@@ -197,7 +197,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6">
                     <div class="footer-logo text-center">
-                        <a class="mt-30" href="index.html"><img src="assets/images/logo.svg" alt="Logo"></a>
+                        //<a class="mt-30" href="index.html"><img src="assets/images/logo.svg" alt="Logo"></a>
                     </div> <!-- footer logo -->
                     <ul class="social text-center mt-60">
                         <li><a href="https://www.facebook.com/kmstechnology.page"><i class="lni lni-facebook-filled"></i></a></li>
